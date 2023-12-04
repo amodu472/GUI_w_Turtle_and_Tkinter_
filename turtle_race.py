@@ -17,7 +17,7 @@ for i in range(len(colors)):
     y_axis -= 60
     racers.append(tim)
 
-# Prompt user to make a bet (I DO NOT condone gambling whatsoever!!!)
+# Prompt user to make a bet (I DO NOT recommend gambling whatsoever ;) !!!)
 user_bet = s.textinput(title="Place your bet...", prompt="What color are you betting on? ").lower()
 
 # Game continues till there is a winner
